@@ -6,4 +6,4 @@ int NumWithoutSecDig()
     return NewNum;
 }
 NumWithoutSecDig();
-System.Console.WriteLine($"После удаления второй цифры из чмсла {num},получится {NewNum}");
+System.Console.WriteLine($"После удаления второй цифры из числа {num},получится {NewNum}");
